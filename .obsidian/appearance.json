@@ -1,0 +1,8 @@
+{
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "callouts"
+  ],
+  "cssTheme": "Catppuccin",
+  "accentColor": "#ce8827"
+}

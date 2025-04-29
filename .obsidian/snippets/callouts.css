@@ -1,0 +1,119 @@
+
+
+.callout[data-callout="pf"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap;
+    background-color: rgba(90,34,139,0.5);
+}
+
+.callout[data-callout="bf"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap;
+    background-color: rgba(53,81,235,0.5);
+}
+
+.callout[data-callout="yf"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap;
+    background-color: rgba(241,241,90,0.5);
+}
+
+.callout[data-callout="rf"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap;
+    background-color: rgba(184,41,20,0.5);
+}
+
+.callout[data-callout="kf"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap;
+    background-color: rgba(70,70,70,0.5);
+}
+
+.callout[data-callout="wf"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap;
+    background-color: rgba(230,230,230,0.5);
+}
+
+.callout[data-callout="pm"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap-off;
+    background-color: rgba(90,34,139,0.5);
+}
+
+.callout[data-callout="bm"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap-off;
+    background-color: rgba(53,81,235,0.5);
+}
+
+.callout[data-callout="ym"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap-off;
+    background-color: rgba(241,241,90,0.5);
+}
+
+.callout[data-callout="rm"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap-off;
+    background-color: rgba(184,41,20,0.5);
+}
+
+.callout[data-callout="km"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap-off;
+    background-color: rgba(70,70,70,0.5);
+}
+
+.callout[data-callout="wm"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-zap-off;
+    background-color: rgba(230,230,230,0.5);
+}
+
+.callout[data-callout="pd"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-circle-x;
+    background-color: rgba(90,34,139,0.5);
+}
+
+.callout[data-callout="bd"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-circle-x;
+    background-color: rgba(53,81,235,0.5);
+}
+
+.callout[data-callout="yd"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-circle-x;
+    background-color: rgba(241,241,90,0.5);
+}
+
+.callout[data-callout="rd"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-circle-x;
+    background-color: rgba(184,41,20,0.5);
+}
+
+.callout[data-callout="kd"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-circle-x;
+    background-color: rgba(70,70,70,0.5);
+}
+
+.callout[data-callout="wd"] {
+    --callout-color: 255, 255, 255,0.7;
+    --callout-icon: lucide-circle-x;
+    background-color: rgba(230,230,230,0.5);
+}
+
+
+
+.theme-dark .markdown-preview-view img {
+    opacity: 1;                   
+}
+
+.theme-dark .markdown-source-view img {
+    opacity: 1;                   
+}
